@@ -57,8 +57,6 @@ and Technoloygy. His main interests are machine learning and data mining.
 
 Yiqian is a bioinformatics major in Huazhong University of Science and Technology.
 
-[Join us](/positions/)
-
 ## Huayu Qin (incoming postdoctoral researcher)
 
 (Hopefully from July 2020)
@@ -77,3 +75,11 @@ knock-out and oligonucleotide microarray. He is highly experienced in wet lab
 techniques in fileds of molecular biology and microbiology. His main interests
 now include using bioinformatics and models based on machine learning algorithms
 for analysis on metagenomics and metataxonomics. 
+
+## Svetlana Ugarčina Perović (incoming postdoctoral researcher)
+Svetlana is a microbiologist with expertise in high-throughput culture-dependent and culture-independent characterization of environmental and human microbiome. She holds a B.S. in Environmental Sciences and a Ph.D. in Environmental Microbiology from the University of Novi Sad (Serbia). Her postdoctoral work at the University of Glasgow (the UK) and University of Porto (Portugal) focused on drinking water microbiome in distribution systems and urinary microbiome in women health. She has been writing for the Microbiome Digest, a daily on-line summary of scientific microbiome news. Her current interest includes computational approaches in microbial ecology to explore dynamics of antimicrobial resistome in the global microbiome.
+
+
+![Svetlana Ugarčina Perović](/images/people/Svetlana Ugarčina Perović.png)
+
+[Join us](/positions/)
